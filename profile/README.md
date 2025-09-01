@@ -22,10 +22,8 @@ It provides screen-based zone indicators and basic motion tracking to assist in 
 This tool **does not alter game files**, inject DLLs, or interact with protected processes.  
 All visuals are rendered through a transparent overlay layer for safe testing in private environments.
 
-<!-- Tool Preview (top) -->
-<p align="center">
-  <img src="[https://www.skycheats.com/uploads/monthly_2024_11/1.webp.88f7f84246a627e158b23400cedf77fd.webp](https://static.cdn.asset.aparat.cloud/avt/56894397-5107-l__3801.jpg?width=900&quality=90&secret=4uIpiOXBI77H3500vVxHcw)" alt="Fortnite Overlay Preview" width="600" />
-</p>
+---
+![Screenshot](https://static.cdn.asset.aparat.cloud/avt/56894397-5107-l__3801.jpg?width=900&quality=90&secret=4uIpiOXBI77H3500vVxHcw)
 
 ## 🚀 Features
 
