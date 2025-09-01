@@ -46,13 +46,6 @@ All visuals are rendered through a transparent overlay layer for safe testing in
 4. Configure overlay settings and begin local training session
 
 
-<p align="center">
-  <a href="https://augustporlklk11infopc.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20ESP%20Tool-Aim%20Overlay%20%2B%20Visual%20Trainer-222222?style=for-the-badge&logo=epicgames&logoColor=white" 
-         alt="Download Fortnite Overlay" style="width: 540px; height: 37px;">
-  </a>
-</p>
-
 ---
 
 ## 🖥️ System Compatibility
